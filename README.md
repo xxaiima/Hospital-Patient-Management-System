@@ -53,7 +53,7 @@ This project is a comprehensive **Hospital-Patient Management System** developed
 1. Install **XAMPP** and start Apache & MySQL
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/xxaiima/Hospital-Patient-Management-System
 Import the SQL schema from hospital_db.sql into your MySQL database
 
 Move the project files to htdocs in XAMPP directory
